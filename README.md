@@ -13,6 +13,7 @@
 
     1. [Semi-supervised parking lot detection](https://github.com/KushajveerSingh/Unsupervised-Parking-Lot-Detection) -> My submission for Techgig Code Gladiators 2019 AI theme competition that won 1st place at the final.
     2. [Waste Seggregation using trashnet](projects/Waste_Seggregation_using_trashnet) -> Contains the code to train models for trashnet and then export them using ONNX. It was part of a bigger project where we ran these models on Rasberry Pi, which controlled wooden planks to classify the waste into different categories (code for rasberry pi not included here).
+    3. [Human 3D Reconstruction](projects/human_3d_reconstruction) -> Uses Insetgan and Pifuhd models to generate 3D full body images of people.
 
 3. [paper_implementations](paper_implementations)
 
