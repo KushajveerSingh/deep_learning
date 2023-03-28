@@ -1,0 +1,9 @@
+[submodule "projects/Unsupervised-Parking-Lot-Detection"]
+	path = projects/Unsupervised-Parking-Lot-Detection
+	url = https://github.com/KushajveerSingh/Unsupervised-Parking-Lot-Detection
+[submodule "paper_implementations/SPADE-PyTorch"]
+	path = paper_implementations/SPADE-PyTorch
+	url = https://github.com/KushajveerSingh/SPADE-PyTorch
+[submodule "paper_implementations/Photorealistic-Style-Transfer"]
+	path = paper_implementations/Photorealistic-Style-Transfer
+	url = https://github.com/KushajveerSingh/Photorealistic-Style-Transfer
