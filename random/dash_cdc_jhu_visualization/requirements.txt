@@ -1,0 +1,10 @@
+numpy
+pandas
+dash
+dash-bootstrap-components
+plotly
+tqdm
+requests
+wheel
+gunicorn
+Flask

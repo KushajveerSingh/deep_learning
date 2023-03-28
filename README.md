@@ -45,3 +45,4 @@
     3. [save_torchvision_models_to_disk](random/save_torchvision_models_to_disk.ipynb) -> a quick script to download all pytorch models
     4. [unscramble_android_game](random/unscramble_android_game) -> Python script to solve the unscramble android game. Complexity is exponential to generate all the substrings, and a dictionary is used to check for valid words.
     5. [download_conference_papers](random/dowload_conference_papers) -> Python scripts to download conference papers as PDFs (like CVPR, ICLR, ECCV) with utility functions what can be used to download papers from any conference.
+    6. [dash_cdc_jhu_visualization](random/dash_cdc_jhu_visualization) -> Python program to download CDC and JHU covid data, and then visualize the discrepencies between the two sources of data using Dash.
